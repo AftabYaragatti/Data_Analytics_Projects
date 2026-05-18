@@ -70,43 +70,6 @@ This repository showcases my practical knowledge in:
 
 ---
 
-# 📂 Featured Projects
-
----
-
-# 📊 Mobile Sales Dashboard
-
-<div align="center">
-
-<a href="https://github.com/AftabYaragatti">
-<img src="https://img.shields.io/badge/💻_GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/🚀_View_Project-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AftabYaragatti/Lung-Cancer-Detection-Using-CT-ImageProcessing---MachineLearning/main/Dashboards/P2-101.jpg" width="90%" alt="Mobile Sales Dashboard"/>
-
-</div>
-
----
-
-📌 Interactive Data Analytics Dashboard developed using Python libraries and Power BI for business insights, sales monitoring, and visualization reporting.
-
-✔ Data Cleaning  
-✔ Sales Analysis  
-✔ Dashboard Reporting  
-✔ Business Insights  
-
----
-
 # 📈 Data Cleaning & Visualization Practice
 
 <div align="center">
